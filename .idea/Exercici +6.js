@@ -47,6 +47,15 @@ console.log(longitud)
 
 // Exercici 10
 
+/*
 var nom = 'Ferran Garcia Pages';
 let editat = nom.slice(0,6) + nom.slice(7)
 console.log(editat)
+ */
+
+// Exercici 11
+
+let a;
+let b = null;
+let suma = (a+b);
+console.log(suma) // NaN + 0 = NaN
