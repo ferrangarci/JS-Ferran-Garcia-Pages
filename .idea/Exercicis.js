@@ -41,7 +41,6 @@ console.log(a) // SI DEIXA, PERQUE LES VARIABLES ACCEPTEN CANVIS
 
 // Exercici 5
 
-
 const a = 'hola'
 console.log(a)
 a = Number.MAX_VALUE
