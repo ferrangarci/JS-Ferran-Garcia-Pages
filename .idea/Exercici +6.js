@@ -19,7 +19,15 @@ console.log("Multiplicació: " + multi)
 
 // Exercici 7
 
+/*
 var catet_a = 4
 var catet_b = 4
 var hipotenusa = Math.sqrt(catet_a * catet_a + catet_b * catet_b)
 console.log(hipotenusa)
+ */
+
+// Exercici 8
+
+var a = 'hola'
+var b = 'adeu'
+console.log(a/b) //RETORNA NaN
