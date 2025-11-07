@@ -64,6 +64,7 @@ console.log(suma) // NaN + 0 = NaN
 
 // Exercici 12
 
+/*
     //Explicita
 let boolea1 = true;
 let text1 = boolea1.toString();
@@ -75,3 +76,21 @@ let boolea2 = false;
 let text2 = boolea2 + "";
 
 console.log(text2);
+ */
+
+// Exercici 13
+
+    //Explicita
+let text = 'hola';
+let boolea1 = Boolean(text);
+
+console.log(boolea1);
+
+    //Implicita
+let text1 = "hola";
+
+if (text1) {
+    console.log("Es true");
+} else {
+    console.log("Es false");
+}
