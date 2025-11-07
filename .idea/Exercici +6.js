@@ -28,6 +28,17 @@ console.log(hipotenusa)
 
 // Exercici 8
 
+/*
 var a = 'hola'
 var b = 'adeu'
 console.log(a/b) //RETORNA NaN
+ */
+
+// Exercici 9
+
+var nom = 'Ferran Garcia Pages';
+let separat = nom.split(' ');
+let cog1 = separat[1];
+let longitud = cog1.length;
+
+console.log(longitud)
