@@ -55,7 +55,23 @@ console.log(editat)
 
 // Exercici 11
 
+/*
 let a;
 let b = null;
 let suma = (a+b);
 console.log(suma) // NaN + 0 = NaN
+ */
+
+// Exercici 12
+
+    //Explicita
+let boolea1 = true;
+let text1 = boolea1.toString();
+
+console.log(text1);
+
+    //Implicita
+let boolea2 = false;
+let text2 = boolea2 + "";
+
+console.log(text2);
