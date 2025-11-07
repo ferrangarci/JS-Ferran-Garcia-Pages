@@ -80,6 +80,7 @@ console.log(text2);
 
 // Exercici 13
 
+/*
     //Explicita
 let text = 'hola';
 let boolea1 = Boolean(text);
@@ -94,3 +95,22 @@ if (text1) {
 } else {
     console.log("Es false");
 }
+ */
+
+// Exercici 14
+
+    //Explicita
+let boolea = true
+let num1 = Number(boolea);
+
+console.log(num1)
+
+    //Implicita
+let booleaTrue = true;
+let booleaFalse = false;
+
+let resultat1 = booleaTrue * 10;
+let resultat2 = booleaFalse + 5;
+
+console.log(resultat1); // 10 - True = 1 * 10
+console.log(resultat2); // 5 - False = 0 + 5
