@@ -36,9 +36,17 @@ console.log(a/b) //RETORNA NaN
 
 // Exercici 9
 
+/*
 var nom = 'Ferran Garcia Pages';
 let separat = nom.split(' ');
 let cog1 = separat[1];
 let longitud = cog1.length;
 
 console.log(longitud)
+ */
+
+// Exercici 10
+
+var nom = 'Ferran Garcia Pages';
+let editat = nom.slice(0,6) + nom.slice(7)
+console.log(editat)
