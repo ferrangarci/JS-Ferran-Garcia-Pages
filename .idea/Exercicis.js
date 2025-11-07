@@ -22,8 +22,18 @@ console.log(c)
 
 // Exercici 3
 
+/*
 var a = 'hola' // canvia el format en el que s'ensenya i el color
 let b = false
 
 console.log(a)
 console.log(b)
+ */
+
+// Exercici 4
+
+
+var a = 'hola'
+console.log(a)
+a = Number.MAX_VALUE
+console.log(a) // SI DEIXA, PERQUE LES VARIABLES ACCEPTE
