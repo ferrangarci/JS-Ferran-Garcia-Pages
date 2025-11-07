@@ -32,8 +32,12 @@ console.log(b)
 
 // Exercici 4
 
-
+/*
 var a = 'hola'
 console.log(a)
 a = Number.MAX_VALUE
 console.log(a) // SI DEIXA, PERQUE LES VARIABLES ACCEPTE
+ */
+
+// Exercici 5
+
