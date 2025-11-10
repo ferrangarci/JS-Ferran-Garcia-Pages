@@ -99,6 +99,7 @@ if (text1) {
 
 // Exercici 14
 
+
     //Explicita
 let boolea = true
 let num1 = Number(boolea);
